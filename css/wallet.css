@@ -50,7 +50,7 @@ aside p {
 }
 
 .shadow {
-  width: 8%;
+  width: 10%;
   box-shadow: rgb(204, 204, 204) 2px 2px 10px 2px;
   border-radius: 10px;
   display: inline-flex;
